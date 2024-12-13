@@ -43,18 +43,30 @@ body{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
-@media screen and (max-width: 768px)
+@media screen and (max-width: 700px)
 {
     .container_block{
-      background: linear-gradient(-40deg,rgb(213, 81, 165),rgb(32, 32, 136),rgb(41, 33, 34));
+
+      background: linear-gradient(50deg,rgb(190, 19, 127),rgb(32, 32, 136),rgb(41, 33, 34));
       border-radius: 10px;
-      width: 400px;
-      height: 300px;
+      border: 2px ;
+      
+      width: 350px;
+      height: 350px;
       padding: 10px;
       position: relative;
     }
     body{
         background: linear-gradient(-50deg,rgb(213, 81, 165),rgb(32, 32, 136),rgb(41, 33, 34));
 
+    }
+    .container_image{
+        border-radius: 50%;
+        border: 3px;
+        width: 150px;
+        height: 150px;
+        position: absolute;
+        top: -70px;
+        left: 110px;
     }
 }
