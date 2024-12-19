@@ -1,18 +1,18 @@
 let testimonial_data =[
     {
-        name:"Anitha",
-        image:"anitha.jpeg",
-        text_content:"I am Anitha from tambaram. I am a software web deginer. I love to travel and explore new places.",
+        name:"Obito Uchiha",
+        image:"obo.jpg",
+        text_content:"Obito Uchiha is a fictional character in the Naruto manga and anime series created by Masashi Kishimoto.",
     },
     {
-        name:"Anto",  
-        image:"anto.jpeg",
-        text_content:"I am Anto from kerala. I am a software engineer. I love to travel and explore new places.",
+        name:"Itachi Uchiha",  
+        image:"thh.jpg",
+        text_content:"Itachi Uchiha is a fictional character in the Naruto manga and anime series created by Masashi Kishimoto.",
     },
     {
-        name:"Shiyam",
-        image:"shym.jpeg",
-        text_content:"I am shiyam from chennai. I am a web devloper. I love to travel and explore new places.",
+        name:"Naruto Uzumaki",
+        image:"th.jpg",
+        text_content:"Naruto Uzumaki is the main protagonist of the popular Japanese manga and anime series Naruto created by Masashi Kishimoto.",
     }
         
 
